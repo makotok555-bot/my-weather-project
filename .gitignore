@@ -1,0 +1,10 @@
+# Javaのビルド生成物
+**/target/
+**/*.class
+**/*.jar
+
+# Pythonのキャッシュ
+**/__pycache__/
+
+# VS Codeの設定
+.vscode/
